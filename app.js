@@ -82,8 +82,7 @@
 
                             //question 9
 
-
-        // can't be understand
+// can't understaand
 
 
                          // question 10
@@ -116,7 +115,17 @@
 
                  //question 13
 
-                 //question 14
+
+     //   use with loop
+
+
+                          // QUESTION #14
+
+
+// var computer=["KEYBOARD","MOUSE","PRINTER","MONITER"]
+// document.write(computer.reverse())
+
+                 
 
                  //question 15
 // var manufacturers = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"];
