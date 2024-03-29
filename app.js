@@ -115,8 +115,16 @@
 
                  //question 13
 
+// var devices = ["Keyboard","Mouse","Printer","Monitor"];
+// document.write(`
+//   <ul>
+//   <li>${devices[0]}</li>
+//   <li>${devices[1]}</li>
+//   <li>${devices[2]}</li>
+//   <li>${devices[3]}</li>
+//   </ul>
+// `)
 
-     //   use with loop
 
 
                           // QUESTION #14
@@ -136,3 +144,5 @@
 // }
 // document.write('</select>'); }
 // generateDropdown();
+
+
